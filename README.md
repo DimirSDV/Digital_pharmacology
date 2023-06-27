@@ -2,4 +2,5 @@
 | Название проекта | Описание | Используемые библиотеки |
 | :---------------------- | :---------------------- | :---------------------- |
 | [1)	Syntelly - Цифровая фармакология (предсказательное моделирование токсикологических свойств соединений) ]([https://github.com/DimirSDV/DimirSDV_DataScience](https://syntelly.com/)) | Создание алгоритма на основе ML для определения потенциально токсичных соединений | `pandas` `sklearn`, `catboost`|
-![Syntelly](https://github.com/DimirSDV/Digital_pharmacology/assets/53089680/a906f031-c87f-4aef-b306-27b316f5910b)
+
+![Syntelly](https://github.com/DimirSDV/Digital_pharmacology/assets/53089680/6fcdb954-3104-45d6-b03c-92e30e3f61a4)
